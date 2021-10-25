@@ -1,7 +1,18 @@
 body {
   background-color: #31313a;
+  margin: 1px red;
+}
+section {
+  padding-right: 20%;
+  padding-left: 20%;
+  padding-bottom: 20%;
 }
 .home {
   display: grid;
   place-items: center;
+  padding: 20%;
+  padding-bottom: 30%;
+}
+h1 {
+  color: #f0f0f0;
 }
