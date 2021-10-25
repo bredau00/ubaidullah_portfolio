@@ -1,0 +1,7 @@
+body {
+  background-color: #31313a;
+}
+.home {
+  display: grid;
+  place-items: center;
+}
