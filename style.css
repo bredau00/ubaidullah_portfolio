@@ -6,6 +6,8 @@ section {
   padding-right: 20%;
   padding-left: 20%;
   padding-bottom: 20%;
+  height: 100vh;
+  box-sizing: border-box;
 }
 .home {
   display: grid;
@@ -22,9 +24,9 @@ p h3 {
 h2 {
   color: #f26b38;
 }
-section {
+/* section {
   display: block;
   height: 100% !important;
   width: 100% !important;
   box-sizing: border-box;
-}
+} */
