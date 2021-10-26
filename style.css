@@ -14,5 +14,17 @@ section {
   padding-bottom: 30%;
 }
 h1 {
-  color: #f0f0f0;
+  color: #f0f0f0 !important;
+}
+p h3 {
+  color: #f0f0f0 !important;
+}
+h2 {
+  color: #f26b38;
+}
+section {
+  display: block;
+  height: 100% !important;
+  width: 100% !important;
+  box-sizing: border-box;
 }
