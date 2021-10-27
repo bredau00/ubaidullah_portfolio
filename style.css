@@ -30,3 +30,30 @@ h2 {
   width: 100% !important;
   box-sizing: border-box;
 } */
+/* media icons */
+
+.fa {
+  padding: 10px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 5px;
+  border-radius: 50%;
+}
+.fa-facebook {
+  /* background: #3b5998; */
+  color: white;
+}
+.fa-twitter {
+  /* background: #55acee; */
+  color: white;
+}
+.fa-linkedin {
+  /* background: #007bb5; */
+  color: white;
+}
+.fa-instagram {
+  /* background: #125688; */
+  color: white;
+}
