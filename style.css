@@ -14,6 +14,9 @@ section {
   place-items: center;
   padding: 20%;
   padding-bottom: 30%;
+  font-size: 6rem;
+  font-weight: 700;
+  position: relative;
 }
 
 h2,
@@ -57,20 +60,9 @@ h3 {
 /* glitch effect */
 /* insparation from Kevin Powell  */
 .home {
-  font-size: 6rem;
-  font-weight: 700;
-  position: relative;
-
   text-shadow: 0.05em 0 0, #f26b38, -0.025em -0.05em 0 #f0f0f0,
     0.025em 0.05em 0 #31313a;
-
   animation: glitch 300ms infinite;
-}
-
-.home span {
-  position: absolute;
-  top: 0;
-  left: 0;
 }
 
 @keyframes glitch {
