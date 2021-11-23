@@ -1,14 +1,13 @@
 body {
   background-color: #31313a;
-  margin: 1px red;
 }
 section {
   padding-right: 20%;
   padding-left: 20%;
 
   height: 100vh;
-  box-sizing: border-box;
 }
+
 .home {
   display: grid;
   place-items: center;
@@ -62,7 +61,7 @@ h3 {
 .home {
   text-shadow: 0.05em 0 0, #f26b38, -0.025em -0.05em 0 #f0f0f0,
     0.025em 0.05em 0 #31313a;
-  animation: glitch 300ms infinite;
+  animation: glitch 500ms infinite;
 }
 
 @keyframes glitch {
